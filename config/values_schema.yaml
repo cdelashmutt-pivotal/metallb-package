@@ -1,0 +1,4 @@
+#@data/values-schema
+---
+address_ranges:
+- ""
